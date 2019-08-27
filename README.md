@@ -2,7 +2,7 @@
 
 How to start:
 ```bash
-git clone https://github.com/Yserhii/Lem-in && cd Lem-in && make
+git clone https://github.com/Yserhii/Lem-in.git && cd Lem-in && make
 ```
 
 <div align="center">
