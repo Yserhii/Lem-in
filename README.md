@@ -56,6 +56,3 @@ L13-end L14-end L15-6
 L15-end
 ```
 `L2-3` means "ant number 2 goes to room number 3." Each line of output corresponds to one "round" of moving ants through the anthill. The goal is to choose paths optimally to minimize this number of lines.
-
-
-
